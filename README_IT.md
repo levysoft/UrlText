@@ -1,6 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/levysoft/UrlText/blob/main/LICENSE)
 
-## README
+## UrlText
 
 ### Descrizione
 UrlText è un programma PHP consente di codificare il testo inserito all'interno di una textarea in Base64 e di aggiornare l'hash dell'URL in modo asincrono, senza dover ricaricare la pagina. Inoltre, il programma gestisce gli eventi 'popstate' generati dai pulsanti "Annulla" e "Ripristina" del browser, in modo da ripristinare il testo della textarea e l'hash dell'URL corretti. Infine, il programma fornisce un pulsante "Condividi" che consente all'utente di copiare il link dell'URL nella clipboard.
