@@ -3,6 +3,8 @@
 ### Descrizione
 UrlText è un programma PHP consente di codificare il testo inserito all'interno di una textarea in Base64 e di aggiornare l'hash dell'URL in modo asincrono, senza dover ricaricare la pagina. Inoltre, il programma gestisce gli eventi 'popstate' generati dai pulsanti "Annulla" e "Ripristina" del browser, in modo da ripristinare il testo della textarea e l'hash dell'URL corretti. Infine, il programma fornisce un pulsante "Condividi" che consente all'utente di copiare il link dell'URL nella clipboard.
 
+Nel file `url_text_bootstrap.php`, ho aggiunto del codice HTML per creare una pagina web con un'interfaccia utente per l'editor di testo, utilizzando il framework Bootstrap. Questo fornisce un'interfaccia più accattivante e facile da usare per l'editor.
+
 ### Utilizzo
 Per utilizzare il programma, basta inserire il testo desiderato all'interno della textarea e il testo verrà automaticamente codificato in Base64 e aggiornato nell'hash dell'URL. L'utente può utilizzare i pulsanti "Annulla" e "Ripristina" del browser per navigare nella cronologia e il testo della textarea verrà ripristinato correttamente grazie alla gestione degli eventi 'popstate'. Infine, l'utente può utilizzare il pulsante "Condividi" per copiare il link dell'URL nella clipboard.
 
@@ -17,6 +19,7 @@ In generale, questo programma può essere utilizzato in qualsiasi situazione in 
 ### Tecnologie utilizzate
 - PHP
 - JavaScript
+- Bootstrap (solo per  `url_text_bootstrap.php`)
 
 ### Licenza
 Il codice di questo programma è rilasciato sotto la licenza [MIT](https://opensource.org/licenses/MIT).
