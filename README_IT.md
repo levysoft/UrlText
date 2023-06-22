@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/levysoft/UrlText/blob/main/LICENSE)
+[![GitHub branches](https://badgen.net/github/branches/levysoft/UrlText)](https://github.com/levysoft/UrlText/)
 
 ## UrlText
 
