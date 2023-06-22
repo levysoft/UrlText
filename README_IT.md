@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/levysoft/UrlText/blob/main/LICENSE)
+
 ## README
 
 ### Descrizione
